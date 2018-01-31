@@ -1,0 +1,24 @@
+{
+    "name": "cryptonote-universal-pool",
+    "version": "0.0.1",
+    "license": "GPL-2.0",
+    "author": "Matthew Little",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fancoder/cryptonote-universal-pool.git"
+    },
+    "dependencies": {
+        "async": "1",
+        "base58-native": "*",
+        "bignum": "*",
+        "cli-color": "*",
+        "cryptonote-util": "git://github.com/clintar/node-cryptonote-util.git#Nan-2.0",
+        "dateformat": "*",
+        "mailgun.js": "*",
+        "multi-hashing": "git://github.com/clintar/node-multi-hashing.git#Nan-2.0",
+        "redis": "*"
+    },
+    "engines": {
+        "node": ">=4.0"
+    }
+}

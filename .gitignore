@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+config.json
+logs/
+/nbproject/private/
+nodesource_setup.sh
+npm-debug.log
+package-lock.json
